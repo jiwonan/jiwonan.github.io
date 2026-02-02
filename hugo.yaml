@@ -1,0 +1,44 @@
+baseURL: "https://jiwonan.github.io/"
+languageCode: "ko-kr"
+title: "My Tech Blog"
+theme: "PaperMod"
+
+# 메뉴 설정 (상단 네비게이션)
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+
+# PaperMod 테마 전용 설정
+params:
+  env: production
+  defaultTheme: auto # 시스템 설정 따라감 (light/dark)
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  
+  # 프로필 모드 (메인 화면)
+  profileMode:
+    enabled: true
+    title: "Jiwonan"
+    subtitle: "3~4년 차 개발자의 기록 공간"
+    # imageUrl: "<이미지경로>" # 나중에 프로필 사진 넣으세요
+    buttons:
+      - name: GitHub
+        url: "https://github.com/jiwonan"
+      - name: Email
+        url: "mailto:본인이메일@gmail.com"
+
+  # 댓글 기능 (Giscus 등) - 나중에 추가 가능

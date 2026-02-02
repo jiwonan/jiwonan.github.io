@@ -39,6 +39,6 @@ params:
       - name: GitHub
         url: "https://github.com/jiwonan"
       - name: Email
-        url: "mailto:본인이메일@gmail.com"
+        url: "mailto:jwan0131@gmail.com"
 
   # 댓글 기능 (Giscus 등) - 나중에 추가 가능

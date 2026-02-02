@@ -33,7 +33,7 @@ params:
   profileMode:
     enabled: true
     title: "Jiwonan"
-    subtitle: "3~4년 차 개발자의 기록 공간"
+    subtitle: "기록"
     # imageUrl: "<이미지경로>" # 나중에 프로필 사진 넣으세요
     buttons:
       - name: GitHub

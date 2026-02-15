@@ -11,7 +11,9 @@ ShowPostNavLinks: false
 ShowBreadCrumbs: false
 ---
 
-📧 [jwan0131@gmail.com](mailto:jwan0131@gmail.com) | 🐱 [github.com/jiwonan](https://github.com/jiwonan) | 🔗 [linkedin.com/in/jiwonan1](http://www.linkedin.com/in/jiwonan1) | 📎 [포트폴리오](/portfolio/)
+📧 [jwan0131@gmail.com](mailto:jwan0131@gmail.com) | 🐱 [github.com/jiwonan](https://github.com/jiwonan) | 🔗 [linkedin.com/in/jiwonan1](http://www.linkedin.com/in/jiwonan1)
+
+📎 [포트폴리오](/portfolio/)
 
 ---
 
@@ -87,4 +89,5 @@ Backend Engineer | 커머스 플랫폼
 ## Education
 
 **한국방송통신대학교** 컴퓨터과학과 (2021.03 ~ 재학 중)
+
 **미림여자정보과학고등학교** 뉴미디어소프트웨어과 졸업 (2018.03 ~ 2021.01)

@@ -11,6 +11,14 @@ menu:
       name: Posts
       url: /posts/
       weight: 5
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: portfolio
+      name: Portfolio
+      url: /portfolio/
+      weight: 15
 
 # PaperMod 테마 전용 설정
 params:
